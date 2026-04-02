@@ -6,3 +6,4 @@ package-lock.json
 # Link check generated files
 link-check-results.txt
 link-check-summary.md
+config.bat
